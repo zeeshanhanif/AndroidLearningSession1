@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_text">Constantinople is the largest city in Turkey.</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+
+</resources>
