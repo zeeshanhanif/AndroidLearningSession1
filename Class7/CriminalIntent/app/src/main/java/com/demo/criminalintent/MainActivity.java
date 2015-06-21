@@ -70,7 +70,7 @@ public class MainActivity extends ActionBarActivity {
                 public void onClick(View v) {
                     Toast.makeText(getActivity(),"Start New Fragment",Toast.LENGTH_SHORT).show();
                     getActivity().getSupportFragmentManager().beginTransaction()
-                            .replace(R.id.container, new NewFragment()).commit();
+                            .replace(R.id.container, new NewFragment()).addToBackStack("Tag").commit();
 
                 }
             });
