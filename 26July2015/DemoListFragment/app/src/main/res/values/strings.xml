@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoListFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_world_list">Hello world! In List</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_list">MyListActivity</string>
+
+</resources>
